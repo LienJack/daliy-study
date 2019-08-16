@@ -16,16 +16,16 @@
 ## 计算机基础
 ### 数据结构和算法
 参考教程： 
-- [极客时间- 数据结构与算法之美](https://time.geekbang.org/column/intro/126) 
-- [极客时间- 算法面试通关40讲](https://time.geekbang.org/course/intro/130)
-- [JavaScript版 数据结构与算法](https://coding.imooc.com/class/315.html)
-- [算法时空](https://weibo.com/ALGOL60) 知识星球
+- [x] [极客时间- 数据结构与算法之美](https://time.geekbang.org/column/intro/126) 
+- [] [极客时间- 算法面试通关40讲](https://time.geekbang.org/course/intro/130) (2/3进度了)
+- [x] [JavaScript版 数据结构与算法](https://coding.imooc.com/class/315.html)
+- [] [面试高频算法习题精讲](https://www.imooc.com/read/44)
 - [leetcode](https://leetcode.com/)
 
 ### 计算机网络
+- [极客时间-透视HTTP协议](https://time.geekbang.org/column/intro/189)
 - [极客时间-趣谈网络协议](https://time.geekbang.org/column/intro/85)
 - [极客时间-Web协议详解与抓包实战](https://time.geekbang.org/course/intro/175)
-- [极客时间-透视HTTP协议](https://time.geekbang.org/column/intro/189)
 
 书
 - 计算机网络（谢希仁编）
@@ -34,13 +34,12 @@
 
 ### 计算机操作
 - [极客时间-趣谈Linux操作系统](https://time.geekbang.org/column/intro/164)
-
+- [Linux实战技能100讲](https://time.geekbang.org/course/intro/193)
 ### 计算机组成原理
 - [极客时间-深入浅出计算机组成原理](https://time.geekbang.org/column/article/91793)
-- [哈尔滨工业大学-计算机组成原理之机器](https://mooc.study.163.com/course/1000002002?tid=2001531005#/info)
 
 ### 编译原理
-等极客时间新出的课程  
+[极客时间-编译原理之美](https://time.geekbang.org/column/intro/219)
 
 
 为何选择这么多极客时间，很多东西买书看视频都可以学，但是极客时间优点是每个篇章都比较短的文章，很适合上班适合摸鱼偷偷看。上班光明正大看视频和看书会很容易被叫去谈话（渣渣公司没办法），而且质量都十分可以，可以快速建立知识体系，需要深入细节的时候再去翻阅书本或者搜索资料，这样就不需要像大学一样，每一部分都学得很细，最后浪费大量时间。现在已经不像大学时候能有大量时间学习，工作学习都是很零散的碎片化的，只能学会碎片化学习，化整为零，将要学东西分成一个个小的知识点，然后化零为整，将知识点通过知识体系联系起来。
@@ -65,10 +64,8 @@
 - [yck的react阅读源码](https://mp.weixin.qq.com/s/Apsa1vuWur0Au-kbQLbnFw)
 
 ### javascript
-- [木易杨Blog](https://github.com/yygmind/blog)   
-- [冴羽Blog](https://github.com/mqyqingfeng/Blog)   
-- [frontendmasters-JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/)  
-- [frontendmasters-deep-javascript-v3](https://frontendmasters.com/courses/deep-javascript-v3/)
+- [] [木易杨Blog](https://github.com/yygmind/blog)   
+- [x] [冴羽Blog](https://github.com/mqyqingfeng/Blog)   
 - [x] 你不知道的JavaScript
 - [x] javascript 忍者秘籍
 
@@ -83,7 +80,7 @@
 ### webpack
 - [x] 深入浅出webpack  
 - [极客时间-玩转webpack](https://time.geekbang.org/course/intro/190)
-- [手把手带你掌握新版Webpack4.0](https://coding.imooc.com/class/316.html)
+- [x] [手把手带你掌握新版Webpack4.0](https://coding.imooc.com/class/316.html)
 
 ## 业务相关
 ### webRTC
@@ -101,8 +98,8 @@
 前端技术： 
 1. [x] React基本使用  
 2. [x] Redux,Route, Mobx 
-3. [ ] Electron学习(进展到一半了)
-4. [ ]webpack深入学习 ，尽可能达到写插件
+3. [x] Electron学习
+4. [x] webpack深入学习 开发出一套cli了
 5. Agora-SDK学习
 6. WebRTC学习
 7. 深入学习Node.js
