@@ -23,14 +23,13 @@
 - [leetcode](https://leetcode.com/)
 
 ### 计算机网络
-- [极客时间-透视HTTP协议](https://time.geekbang.org/column/intro/189)
+- [x] [极客时间-透视HTTP协议](https://time.geekbang.org/column/intro/189)
 - [极客时间-趣谈网络协议](https://time.geekbang.org/column/intro/85)
-- [极客时间-Web协议详解与抓包实战](https://time.geekbang.org/course/intro/175)
+- [x] [极客时间-Web协议详解与抓包实战](https://time.geekbang.org/course/intro/175)
 
 书
-- 计算机网络（谢希仁编）
-- 图解http协议
-- TCP/IP详解 卷1：协议
+- [x] 图解http协议
+- [x] 图解tcp协议
 
 ### 计算机操作
 - [极客时间-趣谈Linux操作系统](https://time.geekbang.org/column/intro/164)
@@ -64,7 +63,7 @@
 - [yck的react阅读源码](https://mp.weixin.qq.com/s/Apsa1vuWur0Au-kbQLbnFw)
 
 ### javascript
-- [] [木易杨Blog](https://github.com/yygmind/blog)   
+- [木易杨Blog](https://github.com/yygmind/blog)   
 - [x] [冴羽Blog](https://github.com/mqyqingfeng/Blog)   
 - [x] 你不知道的JavaScript
 - [x] javascript 忍者秘籍
@@ -79,7 +78,7 @@
 
 ### webpack
 - [x] 深入浅出webpack  
-- [极客时间-玩转webpack](https://time.geekbang.org/course/intro/190)
+- [x] [极客时间-玩转webpack](https://time.geekbang.org/course/intro/190)
 - [x] [手把手带你掌握新版Webpack4.0](https://coding.imooc.com/class/316.html)
 
 ## 业务相关
