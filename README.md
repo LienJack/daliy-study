@@ -1,6 +1,8 @@
 ===
 
 > Create by **lienJack** on **2019-06-04**  
+> update on **2019-10-05**
+===
 
 # daliy-study
 ## 开启项目的意义
@@ -24,7 +26,7 @@
 
 ### 计算机网络
 - [x] [极客时间-透视HTTP协议](https://time.geekbang.org/column/intro/189)
-- [极客时间-趣谈网络协议](https://time.geekbang.org/column/intro/85)
+- [x] [极客时间-趣谈网络协议](https://time.geekbang.org/column/intro/85)
 - [x] [极客时间-Web协议详解与抓包实战](https://time.geekbang.org/course/intro/175)
 
 书
@@ -49,9 +51,9 @@
 由于之前是使用vue工作，所以对于vue比较熟悉，接下来都是对vue的源码和组件设计的深入学习
 
 - 深入浅出Vue.js
-- [尤雨溪的vue讲解](https://frontendmasters.com/courses/advanced-vue/)
-- [Vue.js源码全方位深入解析](https://coding.imooc.com/class/228.html)
-- [逐行级别vue源码](https://github.com/HcySunYang/vue-design)
+- [x] [Vue.js源码全方位深入解析](https://coding.imooc.com/class/228.html)
+- [x] [逐行级别vue源码](https://github.com/HcySunYang/vue-design)
+- [x] [深入浅出vue.js]
 - [iview](https://github.com/iview/iview)
 
 ### react 框架
@@ -60,10 +62,10 @@
 - [React源码深度解析 高级前端工程师必备技能](https://coding.imooc.com/class/309.html)
 - [x] [react小书](http://huziketang.mangojuice.top/books/react/)
 - [x] [动手实现一个react](https://juejin.im/post/5ad81c24f265da504c168c85)
-- [yck的react阅读源码](https://mp.weixin.qq.com/s/Apsa1vuWur0Au-kbQLbnFw)
+- [x] [yck的react阅读源码](https://mp.weixin.qq.com/s/Apsa1vuWur0Au-kbQLbnFw)
 
 ### javascript
-- [木易杨Blog](https://github.com/yygmind/blog)   
+- [x] [木易杨Blog](https://github.com/yygmind/blog)   
 - [x] [冴羽Blog](https://github.com/mqyqingfeng/Blog)   
 - [x] 你不知道的JavaScript
 - [x] javascript 忍者秘籍
@@ -74,12 +76,12 @@
 [Node.js入门到企业Web开发中的应用](https://coding.imooc.com/class/chapter/146.html#Anchor)
 
 [前端晋升全栈工程师必备课程Node.js 从零开发web server博客项目](https://coding.imooc.com/class/chapter/320.html#Anchor)
-[API Design in Node.js, v3](https://frontendmasters.com/courses/node-js/)
 
 ### webpack
 - [x] 深入浅出webpack  
 - [x] [极客时间-玩转webpack](https://time.geekbang.org/course/intro/190)
 - [x] [手把手带你掌握新版Webpack4.0](https://coding.imooc.com/class/316.html)
+- [x] 自制脚手架
 
 ## 业务相关
 ### webRTC
@@ -90,36 +92,22 @@
 - [x] [Build an Electron App in Under 60 Minutes](https://www.youtube.com/watch?v=kN1Czs0m1SU&t=2504s)
 
 - Electron 官方文档
-- [Agora-Electron-SDK](https://agoraio.github.io/Electron-SDK/2_3_3/)
+- [x] [Agora-Electron-SDK](https://agoraio.github.io/Electron-SDK/2_3_3/)
 
 ## 学习计划
 
-前端技术： 
-1. [x] React基本使用  
-2. [x] Redux,Route, Mobx 
-3. [x] Electron学习
-4. [x] webpack深入学习 开发出一套cli了
-5. Agora-SDK学习
-6. WebRTC学习
-7. 深入学习Node.js
+目前已经完成
+- 网络学习（初步）
+  - http
+  - tcp
+- 数据结构（初步）
+- vue 源码阅读
+- typscript学习
+- react 初步学习
+- electron初步学习
+- webkit技术揭秘
+- 面试题100题
 
-基础知识学习：
-
-1. 慕课网数据结构JavaScript
-2. 极客时间的数据结构和算法
-3. 每天1-2天一道leetcode题目
-4. 计算机网络进一步学习
-5. 计算机组成
-6. 计算机操作系统
-7. 编译原理
-
-前端计算和基础知识学习一起进行。
-
-读源码  
-这个放在阶段中期或者后期  
-1. vue
-2. react
-3. loadsh
 
 
 
