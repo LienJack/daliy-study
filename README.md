@@ -19,9 +19,9 @@
 ### 数据结构和算法
 参考教程： 
 - [x] [极客时间- 数据结构与算法之美](https://time.geekbang.org/column/intro/126) 
-- [] [极客时间- 算法面试通关40讲](https://time.geekbang.org/course/intro/130) (2/3进度了)
+- [x] [极客时间- 算法面试通关40讲](https://time.geekbang.org/course/intro/130) (2/3进度了)
 - [x] [JavaScript版 数据结构与算法](https://coding.imooc.com/class/315.html)
-- [] [面试高频算法习题精讲](https://www.imooc.com/read/44)
+- [x] [面试高频算法习题精讲](https://www.imooc.com/read/44)
 - [leetcode](https://leetcode.com/)
 
 ### 计算机网络
@@ -54,7 +54,6 @@
 - [x] [Vue.js源码全方位深入解析](https://coding.imooc.com/class/228.html)
 - [x] [逐行级别vue源码](https://github.com/HcySunYang/vue-design)
 - [x] [深入浅出vue.js]
-- [iview](https://github.com/iview/iview)
 
 ### react 框架
 - [x] [React16+Redux 实战企业级大众点评Web App](https://coding.imooc.com/class/313.html)
@@ -73,6 +72,7 @@
  and so on
 
 ### node.js
+鸽了鸽了
 [Node.js入门到企业Web开发中的应用](https://coding.imooc.com/class/chapter/146.html#Anchor)
 
 [前端晋升全栈工程师必备课程Node.js 从零开发web server博客项目](https://coding.imooc.com/class/chapter/320.html#Anchor)
@@ -85,8 +85,8 @@
 
 ## 业务相关
 ### webRTC
-[WebRTC实时互动直播技术入门与实战](https://coding.imooc.com/class/329.html)  
-[HTML5 Media: Audio, Video & WebRTC](https://frontendmasters.com/courses/html5-media-apis/)
+- [x] [WebRTC实时互动直播技术入门与实战](https://coding.imooc.com/class/329.html)  
+- [x] [HTML5 Media: Audio, Video & WebRTC](https://frontendmasters.com/courses/html5-media-apis/)
 
 ### Electron
 - [x] [Build an Electron App in Under 60 Minutes](https://www.youtube.com/watch?v=kN1Czs0m1SU&t=2504s)
@@ -94,20 +94,11 @@
 - Electron 官方文档
 - [x] [Agora-Electron-SDK](https://agoraio.github.io/Electron-SDK/2_3_3/)
 
-## 学习计划
+## 年度总结
+写这个总结时间已经是2019年12月24号，时间真的过得很快，回想上一年这时候喜欢的人还在我身边，然而现在已经不在了。看了一下自己这短短6个月的学习，进步真的很快。虽然感觉每天学的东西不多，想做的东西很多，但是日积月累，回头看起来还是进步很大。
 
-目前已经完成
-- 网络学习（初步）
-  - http
-  - tcp
-- 数据结构（初步）
-- vue 源码阅读
-- typscript学习
-- react 初步学习
-- electron初步学习
-- webkit技术揭秘
-- 面试题100题
+以下是我2019总结
 
-
+[2019学习学到失恋但是还要继续](https://juejin.im/post/5dfb9d6cf265da339856335b)
 
 
