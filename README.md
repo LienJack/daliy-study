@@ -19,7 +19,7 @@
 ### 数据结构和算法
 参考教程： 
 - [x] [极客时间- 数据结构与算法之美](https://time.geekbang.org/column/intro/126) 
-- [x] [极客时间- 算法面试通关40讲](https://time.geekbang.org/course/intro/130) (2/3进度了)
+- [x] [极客时间- 算法面试通关40讲](https://time.geekbang.org/course/intro/130) 
 - [x] [JavaScript版 数据结构与算法](https://coding.imooc.com/class/315.html)
 - [x] [面试高频算法习题精讲](https://www.imooc.com/read/44)
 - [leetcode](https://leetcode.com/)
